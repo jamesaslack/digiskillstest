@@ -1,4 +1,6 @@
 # Introduction to Python
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jamesaslack/digiskillstest/HEAD)
+
 Introduction to Python course aimed at complete beginners.
 
 The purpose of this course is to introduce you to the fundamentals of computer programming and to build your confidence in self-study. For the duration of the course we will be covering general programming concepts and structures which are not exclusive to Python and exist in other programming languages as well.
@@ -39,4 +41,3 @@ There is a follow-on course, also created by the Digital Skills team, which intr
 
 Finally dont forget that Lynda has a wealth of resources - here's [a playlist](https://www.lynda.com/SharedPlaylist/562f8107f9e34f5480689c57e657e637) with some follow-on courses which overap with and extend the material of this course.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jamesaslack/digiskillstest/HEAD)
